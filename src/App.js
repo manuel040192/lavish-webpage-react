@@ -8,9 +8,6 @@ import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Footer from './components/pages/Footer/Footer';
 
-
-import './App.css';
-
 function App() {
   return (
     <Router>
